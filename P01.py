@@ -1,1 +1,2 @@
-print("Good Evening Everyone!\nWelcom to all you.")
+print('''Good Evening Everyone!
+Welcom to all you.''')
